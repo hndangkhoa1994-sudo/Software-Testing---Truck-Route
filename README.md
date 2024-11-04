@@ -1,1 +1,1 @@
-# Fall2024---SFT---NHH---X
+# Fall2024---SFT---NHH---Group 1
