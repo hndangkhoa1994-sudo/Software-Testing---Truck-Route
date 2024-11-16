@@ -2,8 +2,8 @@
 #define ADDITIONAL_FUNCTIONS_H
 #include "mapping.h" 
 #define LIMIT_PACKAGE 100 // limit number for packages on a truck
-#define LIMIT_WEIGHT 2000 // limit weight for a truck 
-#define LIMIT_VOLUME 20 // limit volume for cubic for a truck to delivery
+#define LIMIT_WEIGHT 1200 // limit weight for a truck 
+#define LIMIT_VOLUME 50 // limit volume for cubic for a truck to delivery
 struct Truck
 {
 	int m_truckColor; // a number store ID for each color ex: 1 is blue, ...
