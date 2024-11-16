@@ -4,4 +4,4 @@ Team members:
   Song Nhat Nguyen,
   Nguyen Dang Khoa Huynh,
   Mohamed Mohamed,
-  Prince Ghumaan,
+  Prince Ghumaan
