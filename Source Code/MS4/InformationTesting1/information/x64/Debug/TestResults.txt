@@ -1,0 +1,40 @@
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Cannot add package: Exceeds capacity.
+Cannot add package: Exceeds capacity.
+Cannot add package: Exceeds capacity.
+The volume is exceed
+  Passed FindTruck_BlackboxTest1 [< 1 ms]
+  Passed AddPackageTest [< 1 ms]
+  Passed FindTruck_WhiteboxTest1 [< 1 ms]
+  Passed FindTruck_WhiteboxTest2 [< 1 ms]
+  Passed FindTruck_WhiteboxTest3 [< 1 ms]
+  Passed FindTruck_WhiteboxTest4 [< 1 ms]
+  Passed FindTruck_WhiteboxTest5 [< 1 ms]
+  Passed AddPackage_WhiteboxTest1 [< 1 ms]
+  Passed AddPackage_WhiteboxTest2 [< 1 ms]
+  Passed AddPackage_WhiteboxTest3 [< 1 ms]
+  Passed AddPackage_WhiteboxTest4 [< 1 ms]
+  Passed AddPackage_WhiteboxTest5 [< 1 ms]
+  Passed CapacityLeft_WhiteboxTest1 [< 1 ms]
+  Passed CapacityLeft_WhiteboxTest2 [< 1 ms]
+  Passed CapacityLeft_WhiteboxTest3 [< 1 ms]
+  Passed CapacityLeft_WhiteboxTest4 [< 1 ms]
+  Passed CapacityLeft_WhiteboxTest5 [< 1 ms]
+  Passed PathCalculation_WhiteboxTest1 [< 1 ms]
+  Passed PathCalculation_WhiteboxTest2 [< 1 ms]
+  Passed PathCalculation_WhiteboxTest3 [< 1 ms]
+  Passed PathCalculation_WhiteboxTest4 [< 1 ms]
+  Passed PathCalculation_WhiteboxTest5 [< 1 ms]
+  Passed CanAddPackage_WhiteboxTest1 [< 1 ms]
+  Passed CanAddPackage_WhiteboxTest2 [< 1 ms]
+  Passed CanAddPackage_WhiteboxTest3 [< 1 ms]
+  Passed CanAddPackage_WhiteboxTest4 [< 1 ms]
+  Passed CanAddPackage_WhiteboxTest5 [< 1 ms]
+
+Test Run Successful.
+Total tests: 27
+     Passed: 27
+ Total time: 0.2131 Seconds
