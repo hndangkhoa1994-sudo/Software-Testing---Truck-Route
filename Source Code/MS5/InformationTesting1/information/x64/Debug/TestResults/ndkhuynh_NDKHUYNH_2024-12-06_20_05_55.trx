@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="0cfe4344-967d-4fd5-b901-dc9d1be367dd" name="ndkhuynh@NDKHUYNH 2024-12-06 20:05:55" runUser="NDKHUYNH\ndkhuynh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-12-06T20:05:55.7018678-05:00" queuing="2024-12-06T20:05:55.7018678-05:00" start="2024-12-06T20:05:55.4243865-05:00" finish="2024-12-06T20:05:55.7289027-05:00" />
+  <TestSettings name="default" id="6245f1bd-6440-47a3-adcd-02770a4f97b2">
+    <Deployment runDeploymentRoot="ndkhuynh_NDKHUYNH_2024-12-06_20_05_55" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="a12771fd-6ae2-4600-8565-9f49aa1a2062" testId="18026ca5-dd67-c98e-02fe-b919c8253113" testName="PathCalculation_WhiteboxTest4" computerName="NDKHUYNH" duration="00:00:00.0000138" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003779-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a12771fd-6ae2-4600-8565-9f49aa1a2062" />
+    <UnitTestResult executionId="aa3dfe4b-93dd-45b8-a53e-6b97af73e62f" testId="47aeac93-b782-8343-cb67-362b006a9c41" testName="GetPossibleMoves_MiddlePointTest" computerName="NDKHUYNH" duration="00:00:00.0000141" startTime="2024-12-06T20:05:55.7013640-05:00" endTime="2024-12-06T20:05:55.7013781-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa3dfe4b-93dd-45b8-a53e-6b97af73e62f" />
+    <UnitTestResult executionId="f73e3e7e-8ac6-4a7b-85fd-99802e2e33f0" testId="ef3a59d9-9109-eeaf-ca40-a11d0876e16a" testName="CapacityLeft_WhiteboxTest5" computerName="NDKHUYNH" duration="00:00:00.0000117" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003758-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f73e3e7e-8ac6-4a7b-85fd-99802e2e33f0" />
+    <UnitTestResult executionId="b85e4146-9f62-4c27-b4c0-ae5eec07b3fa" testId="203601d6-8854-1b47-4857-95c6afc7a262" testName="PathCalculation_WhiteboxTest2" computerName="NDKHUYNH" duration="00:00:00.0000155" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003796-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b85e4146-9f62-4c27-b4c0-ae5eec07b3fa" />
+    <UnitTestResult executionId="197c15fa-fd82-43f5-999c-ba164caa1324" testId="0ab66137-dcd6-6e27-55c7-b99b06dac8f0" testName="AddPackageTest" computerName="NDKHUYNH" duration="00:00:00.0002003" startTime="2024-12-06T20:05:55.6948553-05:00" endTime="2024-12-06T20:05:55.6950556-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="197c15fa-fd82-43f5-999c-ba164caa1324" />
+    <UnitTestResult executionId="1f3d5ced-e3af-41ec-b53b-736b10da7e28" testId="46f2a797-db81-6052-ed2e-07f44ff798fc" testName="CanAddPackage_WhiteboxTest5" computerName="NDKHUYNH" duration="00:00:00.0000135" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003776-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1f3d5ced-e3af-41ec-b53b-736b10da7e28" />
+    <UnitTestResult executionId="f4db70f1-3ec3-4ef5-9a34-a5b47b1ee8fd" testId="f241ac4d-209d-c9e4-f105-21c24c773690" testName="CanAddPackage_WhiteboxTest3" computerName="NDKHUYNH" duration="00:00:00.0000133" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003774-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f4db70f1-3ec3-4ef5-9a34-a5b47b1ee8fd" />
+    <UnitTestResult executionId="730a184d-3332-4df2-b899-3e9cf8a2f4db" testId="07049e18-b0e4-558a-144d-533e4e9c56f2" testName="AddPackage_WhiteboxTest4" computerName="NDKHUYNH" duration="00:00:00.0000792" startTime="2024-12-06T20:05:55.6993590-05:00" endTime="2024-12-06T20:05:55.6994382-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="730a184d-3332-4df2-b899-3e9cf8a2f4db" />
+    <UnitTestResult executionId="6e96704e-07f9-4ced-bb34-15476a19720f" testId="30f05fba-314c-1cf0-abfc-23daf6c2e464" testName="AddRoute_WhiteboxTest2" computerName="NDKHUYNH" duration="00:00:00.0000284" startTime="2024-12-06T20:05:55.7013640-05:00" endTime="2024-12-06T20:05:55.7013924-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6e96704e-07f9-4ced-bb34-15476a19720f" />
+    <UnitTestResult executionId="b1c7bd8d-b8a5-4257-8ec7-24fe27842c83" testId="70516bec-eef8-f740-432c-013ab1168c39" testName="GetClosestPoint_WhiteboxTest" computerName="NDKHUYNH" duration="00:00:00.0000222" startTime="2024-12-06T20:05:55.7013640-05:00" endTime="2024-12-06T20:05:55.7013862-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1c7bd8d-b8a5-4257-8ec7-24fe27842c83" />
+    <UnitTestResult executionId="f9c22102-e2ca-4933-ae6d-662b2130d513" testId="65502762-0330-95ff-2af8-014faf248bc2" testName="FindTruck_WhiteboxTest5" computerName="NDKHUYNH" duration="00:00:00.0000144" startTime="2024-12-06T20:05:55.6958566-05:00" endTime="2024-12-06T20:05:55.6958710-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f9c22102-e2ca-4933-ae6d-662b2130d513" />
+    <UnitTestResult executionId="8275417d-3747-403f-a648-c0b34e0c9ebe" testId="410edcff-7c92-4374-d9f1-fd8b377b7aff" testName="ShortestPath_WhiteboxTest1" computerName="NDKHUYNH" duration="00:00:00.0000329" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003970-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8275417d-3747-403f-a648-c0b34e0c9ebe" />
+    <UnitTestResult executionId="119b7a02-3b60-41be-b869-399109021208" testId="ccab0bb0-004c-559c-118e-8fabe04cdc6c" testName="CanAddPackage_WhiteboxTest1" computerName="NDKHUYNH" duration="00:00:00.0000137" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003778-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="119b7a02-3b60-41be-b869-399109021208" />
+    <UnitTestResult executionId="19802087-2e93-4d25-9d64-c5c3aee1314b" testId="f4146999-a9a3-532a-cea0-06f2b907e46a" testName="FindTruck_WhiteboxTest1" computerName="NDKHUYNH" duration="00:00:00.0000213" startTime="2024-12-06T20:05:55.6958566-05:00" endTime="2024-12-06T20:05:55.6958779-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19802087-2e93-4d25-9d64-c5c3aee1314b" />
+    <UnitTestResult executionId="287d4219-9968-47b7-9e44-0e11624b0787" testId="502aab4e-d013-9f13-53b5-7b94db51a372" testName="PathCalculation_WhiteboxTest5" computerName="NDKHUYNH" duration="00:00:00.0000135" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003776-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="287d4219-9968-47b7-9e44-0e11624b0787" />
+    <UnitTestResult executionId="caee9f13-c865-45b5-be62-00c68df9ba68" testId="b5bef3a0-b743-1807-f079-06174e61405e" testName="CapacityLeft_WhiteboxTest4" computerName="NDKHUYNH" duration="00:00:00.0000191" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003832-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="caee9f13-c865-45b5-be62-00c68df9ba68" />
+    <UnitTestResult executionId="c098b7ff-1b5f-4414-b2cc-0b48c6de31dd" testId="757522ad-e0c3-cdd3-9a37-cb915a1720c7" testName="CapacityLeft_WhiteboxTest2" computerName="NDKHUYNH" duration="00:00:00.0000653" startTime="2024-12-06T20:05:55.6993590-05:00" endTime="2024-12-06T20:05:55.6994243-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c098b7ff-1b5f-4414-b2cc-0b48c6de31dd" />
+    <UnitTestResult executionId="2de4c566-b508-4ed8-9ac2-b7674caeac75" testId="718069f6-be7d-ec11-b296-7cadb4a4058b" testName="CapacityLeft_WhiteboxTest1" computerName="NDKHUYNH" duration="00:00:00.0000706" startTime="2024-12-06T20:05:55.6993590-05:00" endTime="2024-12-06T20:05:55.6994296-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2de4c566-b508-4ed8-9ac2-b7674caeac75" />
+    <UnitTestResult executionId="372a0ce9-724a-48ba-ab27-282175358287" testId="88e3319b-14de-f210-3671-59c8405eb719" testName="FindTruck_WhiteboxTest4" computerName="NDKHUYNH" duration="00:00:00.0000144" startTime="2024-12-06T20:05:55.6958566-05:00" endTime="2024-12-06T20:05:55.6958710-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="372a0ce9-724a-48ba-ab27-282175358287" />
+    <UnitTestResult executionId="4d8eeb22-b48f-4a5b-80f3-75b2bce054d0" testId="222a585a-e090-4c41-2cb3-9169cb727606" testName="GetPossibleMoves_EdgePointTest" computerName="NDKHUYNH" duration="00:00:00.0000136" startTime="2024-12-06T20:05:55.7013640-05:00" endTime="2024-12-06T20:05:55.7013776-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d8eeb22-b48f-4a5b-80f3-75b2bce054d0" />
+    <UnitTestResult executionId="29a438d7-e8bb-4bf1-b39f-871b7ce8af89" testId="3c785b4c-2675-6f66-0fbd-c64f69126a61" testName="CapacityLeft_WhiteboxTest3" computerName="NDKHUYNH" duration="00:00:00.0000262" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003903-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29a438d7-e8bb-4bf1-b39f-871b7ce8af89" />
+    <UnitTestResult executionId="8358ee37-1e67-4fcd-9abf-e707a05abedc" testId="c9254538-5d7f-dd99-25bd-ee0103ce8b75" testName="AddPackage_WhiteboxTest1" computerName="NDKHUYNH" duration="00:00:00.0000132" startTime="2024-12-06T20:05:55.6958566-05:00" endTime="2024-12-06T20:05:55.6958698-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8358ee37-1e67-4fcd-9abf-e707a05abedc" />
+    <UnitTestResult executionId="36c3e38d-6d36-441e-a862-770f6efd6738" testId="dc9aaf32-70e0-80d3-03b1-18393051f757" testName="FindTruck_WhiteboxTest3" computerName="NDKHUYNH" duration="00:00:00.0000138" startTime="2024-12-06T20:05:55.6958566-05:00" endTime="2024-12-06T20:05:55.6958704-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="36c3e38d-6d36-441e-a862-770f6efd6738" />
+    <UnitTestResult executionId="97fc9ca2-7171-48be-aa42-9c9ee9ce0957" testId="bd7b8be0-46be-a0b8-0813-2ec125c68159" testName="CanAddPackage_WhiteboxTest2" computerName="NDKHUYNH" duration="00:00:00.0000132" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003773-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="97fc9ca2-7171-48be-aa42-9c9ee9ce0957" />
+    <UnitTestResult executionId="5c2dfd11-bd13-4446-a2b4-96fa8094e843" testId="d7e63dad-b677-aa28-32a6-e59b21bb520d" testName="AddRoute_WhiteboxTest1" computerName="NDKHUYNH" duration="00:00:00.0000052" startTime="2024-12-06T20:05:55.7013640-05:00" endTime="2024-12-06T20:05:55.7013692-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5c2dfd11-bd13-4446-a2b4-96fa8094e843" />
+    <UnitTestResult executionId="489784bd-1124-4706-9923-25b285976666" testId="dfa207e9-dd39-b559-5278-b9596764a61b" testName="PathCalculation_WhiteboxTest1" computerName="NDKHUYNH" duration="00:00:00.0000163" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003804-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="489784bd-1124-4706-9923-25b285976666" />
+    <UnitTestResult executionId="3f8d8da0-5b68-4cc8-81f0-70f223132f13" testId="4dadc1e2-e440-ca83-59ea-9ccdab26d82b" testName="CanAddPackage_WhiteboxTest4" computerName="NDKHUYNH" duration="00:00:00.0000142" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003783-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f8d8da0-5b68-4cc8-81f0-70f223132f13" />
+    <UnitTestResult executionId="04ce9b38-0523-495d-aaf0-dec0a0219e1b" testId="7c6948e0-4730-e6a1-50c9-1686dfa66ed8" testName="AddPackage_WhiteboxTest2" computerName="NDKHUYNH" duration="00:00:00.0000590" startTime="2024-12-06T20:05:55.6958566-05:00" endTime="2024-12-06T20:05:55.6959156-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04ce9b38-0523-495d-aaf0-dec0a0219e1b" />
+    <UnitTestResult executionId="0ebaadb8-d13d-40a1-b2bd-0aaf2623aa17" testId="704bb894-101d-98c7-e823-d6d9a9b555b5" testName="FindTruck_WhiteboxTest2" computerName="NDKHUYNH" duration="00:00:00.0000150" startTime="2024-12-06T20:05:55.6958566-05:00" endTime="2024-12-06T20:05:55.6958716-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ebaadb8-d13d-40a1-b2bd-0aaf2623aa17" />
+    <UnitTestResult executionId="a8b55d2c-52ad-414e-838b-b4ee424aebc0" testId="4ba3e5f1-0d31-7729-4cd4-98b1e6fbc067" testName="AddPackage_WhiteboxTest5" computerName="NDKHUYNH" duration="00:00:00.0000150" startTime="2024-12-06T20:05:55.6993590-05:00" endTime="2024-12-06T20:05:55.6993740-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8b55d2c-52ad-414e-838b-b4ee424aebc0" />
+    <UnitTestResult executionId="f5e5bd15-883c-45d5-b57a-e1bdac8f16dd" testId="6a1e98a8-1e68-bead-22f5-81319ef803e4" testName="AddPackage_WhiteboxTest3" computerName="NDKHUYNH" duration="00:00:00.0000260" startTime="2024-12-06T20:05:55.6993590-05:00" endTime="2024-12-06T20:05:55.6993850-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5e5bd15-883c-45d5-b57a-e1bdac8f16dd" />
+    <UnitTestResult executionId="839261af-7395-4cca-9b10-55c1802015d0" testId="8a3ba3bd-a41e-7aa6-7b4d-fac1f19f322b" testName="ShortestPath_UnobstructedPath" computerName="NDKHUYNH" duration="00:00:00.0000521" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7004162-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="839261af-7395-4cca-9b10-55c1802015d0" />
+    <UnitTestResult executionId="f3246295-7728-43b7-8147-f4b9a37d21c2" testId="604c5929-7655-7d0b-bdaa-ecf7c0dde43a" testName="ShortestPath_BoundaryConditions" computerName="NDKHUYNH" duration="00:00:00.0000255" startTime="2024-12-06T20:05:55.7013640-05:00" endTime="2024-12-06T20:05:55.7013895-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f3246295-7728-43b7-8147-f4b9a37d21c2" />
+    <UnitTestResult executionId="07981996-2c9d-4190-81b3-98c757bf2c59" testId="98a06626-85b8-6f2e-9db3-2210eba4f287" testName="PathCalculation_WhiteboxTest3" computerName="NDKHUYNH" duration="00:00:00.0000178" startTime="2024-12-06T20:05:55.7003641-05:00" endTime="2024-12-06T20:05:55.7003819-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="07981996-2c9d-4190-81b3-98c757bf2c59" />
+    <UnitTestResult executionId="bcf43305-c25d-46e4-b0fe-9efeceb68255" testId="b9b8abf8-05b6-2ac6-2374-51fcd6757f3f" testName="FindTruck_BlackboxTest1" computerName="NDKHUYNH" duration="00:00:00.0001449" startTime="2024-12-06T20:05:55.6893442-05:00" endTime="2024-12-06T20:05:55.6894891-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bcf43305-c25d-46e4-b0fe-9efeceb68255" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="CapacityLeft_WhiteboxTest4" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="b5bef3a0-b743-1807-f079-06174e61405e">
+      <Execution id="caee9f13-c865-45b5-be62-00c68df9ba68" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CapacityLeft_WhiteboxTest4" />
+    </UnitTest>
+    <UnitTest name="FindTruck_WhiteboxTest3" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="dc9aaf32-70e0-80d3-03b1-18393051f757">
+      <Execution id="36c3e38d-6d36-441e-a862-770f6efd6738" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::FindTruck_WhiteboxTest3" />
+    </UnitTest>
+    <UnitTest name="CapacityLeft_WhiteboxTest3" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="3c785b4c-2675-6f66-0fbd-c64f69126a61">
+      <Execution id="29a438d7-e8bb-4bf1-b39f-871b7ce8af89" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CapacityLeft_WhiteboxTest3" />
+    </UnitTest>
+    <UnitTest name="GetPossibleMoves_MiddlePointTest" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="47aeac93-b782-8343-cb67-362b006a9c41">
+      <Execution id="aa3dfe4b-93dd-45b8-a53e-6b97af73e62f" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::GetPossibleMoves_MiddlePointTest" />
+    </UnitTest>
+    <UnitTest name="AddPackage_WhiteboxTest3" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="6a1e98a8-1e68-bead-22f5-81319ef803e4">
+      <Execution id="f5e5bd15-883c-45d5-b57a-e1bdac8f16dd" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddPackage_WhiteboxTest3" />
+    </UnitTest>
+    <UnitTest name="ShortestPath_BoundaryConditions" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="604c5929-7655-7d0b-bdaa-ecf7c0dde43a">
+      <Execution id="f3246295-7728-43b7-8147-f4b9a37d21c2" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::ShortestPath_BoundaryConditions" />
+    </UnitTest>
+    <UnitTest name="FindTruck_BlackboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="b9b8abf8-05b6-2ac6-2374-51fcd6757f3f">
+      <Execution id="bcf43305-c25d-46e4-b0fe-9efeceb68255" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::FindTruck_BlackboxTest1" />
+    </UnitTest>
+    <UnitTest name="FindTruck_WhiteboxTest2" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="704bb894-101d-98c7-e823-d6d9a9b555b5">
+      <Execution id="0ebaadb8-d13d-40a1-b2bd-0aaf2623aa17" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::FindTruck_WhiteboxTest2" />
+    </UnitTest>
+    <UnitTest name="AddPackage_WhiteboxTest2" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="7c6948e0-4730-e6a1-50c9-1686dfa66ed8">
+      <Execution id="04ce9b38-0523-495d-aaf0-dec0a0219e1b" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddPackage_WhiteboxTest2" />
+    </UnitTest>
+    <UnitTest name="GetPossibleMoves_EdgePointTest" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="222a585a-e090-4c41-2cb3-9169cb727606">
+      <Execution id="4d8eeb22-b48f-4a5b-80f3-75b2bce054d0" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::GetPossibleMoves_EdgePointTest" />
+    </UnitTest>
+    <UnitTest name="CanAddPackage_WhiteboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="ccab0bb0-004c-559c-118e-8fabe04cdc6c">
+      <Execution id="119b7a02-3b60-41be-b869-399109021208" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CanAddPackage_WhiteboxTest1" />
+    </UnitTest>
+    <UnitTest name="PathCalculation_WhiteboxTest5" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="502aab4e-d013-9f13-53b5-7b94db51a372">
+      <Execution id="287d4219-9968-47b7-9e44-0e11624b0787" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::PathCalculation_WhiteboxTest5" />
+    </UnitTest>
+    <UnitTest name="PathCalculation_WhiteboxTest2" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="203601d6-8854-1b47-4857-95c6afc7a262">
+      <Execution id="b85e4146-9f62-4c27-b4c0-ae5eec07b3fa" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::PathCalculation_WhiteboxTest2" />
+    </UnitTest>
+    <UnitTest name="CanAddPackage_WhiteboxTest4" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="4dadc1e2-e440-ca83-59ea-9ccdab26d82b">
+      <Execution id="3f8d8da0-5b68-4cc8-81f0-70f223132f13" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CanAddPackage_WhiteboxTest4" />
+    </UnitTest>
+    <UnitTest name="FindTruck_WhiteboxTest4" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="88e3319b-14de-f210-3671-59c8405eb719">
+      <Execution id="372a0ce9-724a-48ba-ab27-282175358287" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::FindTruck_WhiteboxTest4" />
+    </UnitTest>
+    <UnitTest name="CanAddPackage_WhiteboxTest5" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="46f2a797-db81-6052-ed2e-07f44ff798fc">
+      <Execution id="1f3d5ced-e3af-41ec-b53b-736b10da7e28" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CanAddPackage_WhiteboxTest5" />
+    </UnitTest>
+    <UnitTest name="ShortestPath_WhiteboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="410edcff-7c92-4374-d9f1-fd8b377b7aff">
+      <Execution id="8275417d-3747-403f-a648-c0b34e0c9ebe" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::ShortestPath_WhiteboxTest1" />
+    </UnitTest>
+    <UnitTest name="AddPackageTest" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="0ab66137-dcd6-6e27-55c7-b99b06dac8f0">
+      <Execution id="197c15fa-fd82-43f5-999c-ba164caa1324" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddPackageTest" />
+    </UnitTest>
+    <UnitTest name="ShortestPath_UnobstructedPath" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="8a3ba3bd-a41e-7aa6-7b4d-fac1f19f322b">
+      <Execution id="839261af-7395-4cca-9b10-55c1802015d0" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::ShortestPath_UnobstructedPath" />
+    </UnitTest>
+    <UnitTest name="CapacityLeft_WhiteboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="718069f6-be7d-ec11-b296-7cadb4a4058b">
+      <Execution id="2de4c566-b508-4ed8-9ac2-b7674caeac75" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CapacityLeft_WhiteboxTest1" />
+    </UnitTest>
+    <UnitTest name="GetClosestPoint_WhiteboxTest" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="70516bec-eef8-f740-432c-013ab1168c39">
+      <Execution id="b1c7bd8d-b8a5-4257-8ec7-24fe27842c83" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::GetClosestPoint_WhiteboxTest" />
+    </UnitTest>
+    <UnitTest name="CapacityLeft_WhiteboxTest5" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="ef3a59d9-9109-eeaf-ca40-a11d0876e16a">
+      <Execution id="f73e3e7e-8ac6-4a7b-85fd-99802e2e33f0" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CapacityLeft_WhiteboxTest5" />
+    </UnitTest>
+    <UnitTest name="FindTruck_WhiteboxTest5" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="65502762-0330-95ff-2af8-014faf248bc2">
+      <Execution id="f9c22102-e2ca-4933-ae6d-662b2130d513" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::FindTruck_WhiteboxTest5" />
+    </UnitTest>
+    <UnitTest name="PathCalculation_WhiteboxTest3" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="98a06626-85b8-6f2e-9db3-2210eba4f287">
+      <Execution id="07981996-2c9d-4190-81b3-98c757bf2c59" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::PathCalculation_WhiteboxTest3" />
+    </UnitTest>
+    <UnitTest name="AddRoute_WhiteboxTest2" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="30f05fba-314c-1cf0-abfc-23daf6c2e464">
+      <Execution id="6e96704e-07f9-4ced-bb34-15476a19720f" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddRoute_WhiteboxTest2" />
+    </UnitTest>
+    <UnitTest name="AddRoute_WhiteboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="d7e63dad-b677-aa28-32a6-e59b21bb520d">
+      <Execution id="5c2dfd11-bd13-4446-a2b4-96fa8094e843" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddRoute_WhiteboxTest1" />
+    </UnitTest>
+    <UnitTest name="PathCalculation_WhiteboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="dfa207e9-dd39-b559-5278-b9596764a61b">
+      <Execution id="489784bd-1124-4706-9923-25b285976666" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::PathCalculation_WhiteboxTest1" />
+    </UnitTest>
+    <UnitTest name="AddPackage_WhiteboxTest4" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="07049e18-b0e4-558a-144d-533e4e9c56f2">
+      <Execution id="730a184d-3332-4df2-b899-3e9cf8a2f4db" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddPackage_WhiteboxTest4" />
+    </UnitTest>
+    <UnitTest name="CapacityLeft_WhiteboxTest2" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="757522ad-e0c3-cdd3-9a37-cb915a1720c7">
+      <Execution id="c098b7ff-1b5f-4414-b2cc-0b48c6de31dd" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CapacityLeft_WhiteboxTest2" />
+    </UnitTest>
+    <UnitTest name="CanAddPackage_WhiteboxTest2" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="bd7b8be0-46be-a0b8-0813-2ec125c68159">
+      <Execution id="97fc9ca2-7171-48be-aa42-9c9ee9ce0957" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CanAddPackage_WhiteboxTest2" />
+    </UnitTest>
+    <UnitTest name="FindTruck_WhiteboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="f4146999-a9a3-532a-cea0-06f2b907e46a">
+      <Execution id="19802087-2e93-4d25-9d64-c5c3aee1314b" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::FindTruck_WhiteboxTest1" />
+    </UnitTest>
+    <UnitTest name="CanAddPackage_WhiteboxTest3" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="f241ac4d-209d-c9e4-f105-21c24c773690">
+      <Execution id="f4db70f1-3ec3-4ef5-9a34-a5b47b1ee8fd" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::CanAddPackage_WhiteboxTest3" />
+    </UnitTest>
+    <UnitTest name="AddPackage_WhiteboxTest1" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="c9254538-5d7f-dd99-25bd-ee0103ce8b75">
+      <Execution id="8358ee37-1e67-4fcd-9abf-e707a05abedc" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddPackage_WhiteboxTest1" />
+    </UnitTest>
+    <UnitTest name="AddPackage_WhiteboxTest5" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="4ba3e5f1-0d31-7729-4cd4-98b1e6fbc067">
+      <Execution id="a8b55d2c-52ad-414e-838b-b4ee424aebc0" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::AddPackage_WhiteboxTest5" />
+    </UnitTest>
+    <UnitTest name="PathCalculation_WhiteboxTest4" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\whiteboxtesting.dll" id="18026ca5-dd67-c98e-02fe-b919c8253113">
+      <Execution id="a12771fd-6ae2-4600-8565-9f49aa1a2062" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\WhiteBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="PostalCodeTests.WhiteBoxTestCases" name="PostalCodeTests::WhiteBoxTestCases::PathCalculation_WhiteboxTest4" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="18026ca5-dd67-c98e-02fe-b919c8253113" executionId="a12771fd-6ae2-4600-8565-9f49aa1a2062" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47aeac93-b782-8343-cb67-362b006a9c41" executionId="aa3dfe4b-93dd-45b8-a53e-6b97af73e62f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef3a59d9-9109-eeaf-ca40-a11d0876e16a" executionId="f73e3e7e-8ac6-4a7b-85fd-99802e2e33f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="203601d6-8854-1b47-4857-95c6afc7a262" executionId="b85e4146-9f62-4c27-b4c0-ae5eec07b3fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0ab66137-dcd6-6e27-55c7-b99b06dac8f0" executionId="197c15fa-fd82-43f5-999c-ba164caa1324" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="46f2a797-db81-6052-ed2e-07f44ff798fc" executionId="1f3d5ced-e3af-41ec-b53b-736b10da7e28" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f241ac4d-209d-c9e4-f105-21c24c773690" executionId="f4db70f1-3ec3-4ef5-9a34-a5b47b1ee8fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07049e18-b0e4-558a-144d-533e4e9c56f2" executionId="730a184d-3332-4df2-b899-3e9cf8a2f4db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30f05fba-314c-1cf0-abfc-23daf6c2e464" executionId="6e96704e-07f9-4ced-bb34-15476a19720f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="70516bec-eef8-f740-432c-013ab1168c39" executionId="b1c7bd8d-b8a5-4257-8ec7-24fe27842c83" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65502762-0330-95ff-2af8-014faf248bc2" executionId="f9c22102-e2ca-4933-ae6d-662b2130d513" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="410edcff-7c92-4374-d9f1-fd8b377b7aff" executionId="8275417d-3747-403f-a648-c0b34e0c9ebe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ccab0bb0-004c-559c-118e-8fabe04cdc6c" executionId="119b7a02-3b60-41be-b869-399109021208" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4146999-a9a3-532a-cea0-06f2b907e46a" executionId="19802087-2e93-4d25-9d64-c5c3aee1314b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="502aab4e-d013-9f13-53b5-7b94db51a372" executionId="287d4219-9968-47b7-9e44-0e11624b0787" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5bef3a0-b743-1807-f079-06174e61405e" executionId="caee9f13-c865-45b5-be62-00c68df9ba68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="757522ad-e0c3-cdd3-9a37-cb915a1720c7" executionId="c098b7ff-1b5f-4414-b2cc-0b48c6de31dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="718069f6-be7d-ec11-b296-7cadb4a4058b" executionId="2de4c566-b508-4ed8-9ac2-b7674caeac75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88e3319b-14de-f210-3671-59c8405eb719" executionId="372a0ce9-724a-48ba-ab27-282175358287" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="222a585a-e090-4c41-2cb3-9169cb727606" executionId="4d8eeb22-b48f-4a5b-80f3-75b2bce054d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c785b4c-2675-6f66-0fbd-c64f69126a61" executionId="29a438d7-e8bb-4bf1-b39f-871b7ce8af89" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c9254538-5d7f-dd99-25bd-ee0103ce8b75" executionId="8358ee37-1e67-4fcd-9abf-e707a05abedc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dc9aaf32-70e0-80d3-03b1-18393051f757" executionId="36c3e38d-6d36-441e-a862-770f6efd6738" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd7b8be0-46be-a0b8-0813-2ec125c68159" executionId="97fc9ca2-7171-48be-aa42-9c9ee9ce0957" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7e63dad-b677-aa28-32a6-e59b21bb520d" executionId="5c2dfd11-bd13-4446-a2b4-96fa8094e843" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dfa207e9-dd39-b559-5278-b9596764a61b" executionId="489784bd-1124-4706-9923-25b285976666" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4dadc1e2-e440-ca83-59ea-9ccdab26d82b" executionId="3f8d8da0-5b68-4cc8-81f0-70f223132f13" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c6948e0-4730-e6a1-50c9-1686dfa66ed8" executionId="04ce9b38-0523-495d-aaf0-dec0a0219e1b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="704bb894-101d-98c7-e823-d6d9a9b555b5" executionId="0ebaadb8-d13d-40a1-b2bd-0aaf2623aa17" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ba3e5f1-0d31-7729-4cd4-98b1e6fbc067" executionId="a8b55d2c-52ad-414e-838b-b4ee424aebc0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6a1e98a8-1e68-bead-22f5-81319ef803e4" executionId="f5e5bd15-883c-45d5-b57a-e1bdac8f16dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a3ba3bd-a41e-7aa6-7b4d-fac1f19f322b" executionId="839261af-7395-4cca-9b10-55c1802015d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="604c5929-7655-7d0b-bdaa-ecf7c0dde43a" executionId="f3246295-7728-43b7-8147-f4b9a37d21c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="98a06626-85b8-6f2e-9db3-2210eba4f287" executionId="07981996-2c9d-4190-81b3-98c757bf2c59" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b9b8abf8-05b6-2ac6-2374-51fcd6757f3f" executionId="bcf43305-c25d-46e4-b0fe-9efeceb68255" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="35" executed="35" passed="35" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

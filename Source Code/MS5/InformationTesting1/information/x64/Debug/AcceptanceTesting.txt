@@ -1,0 +1,2 @@
+VSTest version 17.11.1 (x64)
+

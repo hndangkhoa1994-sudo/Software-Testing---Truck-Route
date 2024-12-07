@@ -1,0 +1,16 @@
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Cannot add package: Exceeds capacity.
+  Passed Test_AddPackagesToTruckWithConstraints [< 1 ms]
+  Passed Test_ShipmentAssignmentWithRoute [< 1 ms]
+  Passed Test_PathCalculationForShipment [< 1 ms]
+  Passed Test_TruckCapacityAfterPackages [< 1 ms]
+  Passed Test_AddingRoutesToMap [< 1 ms]
+  Passed Test_FullShipmentWorkflow [< 1 ms]
+
+Test Run Successful.
+Total tests: 6
+     Passed: 6
+ Total time: 0.2304 Seconds

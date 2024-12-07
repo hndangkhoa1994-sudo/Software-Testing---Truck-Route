@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="2023e7b9-1fc7-42bc-b29c-dbb3b9cb5661" name="ndkhuynh@NDKHUYNH 2024-12-06 20:04:21" runUser="NDKHUYNH\ndkhuynh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-12-06T20:04:21.4348921-05:00" queuing="2024-12-06T20:04:21.4348921-05:00" start="2024-12-06T20:04:21.1874592-05:00" finish="2024-12-06T20:04:21.4575031-05:00" />
+  <TestSettings name="default" id="05514537-931b-43be-828a-f442740f5496">
+    <Deployment runDeploymentRoot="ndkhuynh_NDKHUYNH_2024-12-06_20_04_21" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="bdaa3462-26d5-4605-aba3-569c4cdb1c3b" testId="64873aea-1eaa-635e-9acf-4117c71416a8" testName="Test_ShortestPathCalculation" computerName="NDKHUYNH" duration="00:00:00.0000694" startTime="2024-12-06T20:04:21.4203193-05:00" endTime="2024-12-06T20:04:21.4203887-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bdaa3462-26d5-4605-aba3-569c4cdb1c3b" />
+    <UnitTestResult executionId="b2316eac-eafb-4f24-a9fe-1ab949b87d4f" testId="d713a55f-8cc8-84b5-aadd-03df8a402033" testName="Test_AddRouteToMap" computerName="NDKHUYNH" duration="00:00:00.0000181" startTime="2024-12-06T20:04:21.4203193-05:00" endTime="2024-12-06T20:04:21.4203374-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b2316eac-eafb-4f24-a9fe-1ab949b87d4f" />
+    <UnitTestResult executionId="147267c8-eafb-4d1c-8c99-ffb3edfbeceb" testId="f4917fdf-52a8-0754-b3b8-10b794c383e1" testName="Test_AddPackageToTruck" computerName="NDKHUYNH" duration="00:00:00.0000617" startTime="2024-12-06T20:04:21.4203193-05:00" endTime="2024-12-06T20:04:21.4203810-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="147267c8-eafb-4d1c-8c99-ffb3edfbeceb" />
+    <UnitTestResult executionId="732287ba-cae8-4290-a9ea-c52de01680cb" testId="aa2ecd62-e9b1-309c-2d8e-e62316ef5fe5" testName="Test_CapacityLeftInTruck" computerName="NDKHUYNH" duration="00:00:00.0000946" startTime="2024-12-06T20:04:21.4203193-05:00" endTime="2024-12-06T20:04:21.4204139-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="732287ba-cae8-4290-a9ea-c52de01680cb" />
+    <UnitTestResult executionId="a51d3c0b-ac2e-481c-a8eb-e75ab2f07d8b" testId="dad26f78-00f8-2d20-7d1d-f9e673eb3d04" testName="Test_InvalidPackageData" computerName="NDKHUYNH" duration="00:00:00.0000230" startTime="2024-12-06T20:04:21.4213228-05:00" endTime="2024-12-06T20:04:21.4213458-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a51d3c0b-ac2e-481c-a8eb-e75ab2f07d8b" />
+    <UnitTestResult executionId="514e1f93-8548-4f0b-a3ea-8959c10e8dcc" testId="9e64fcf4-0e74-9fb3-eedd-43a03478dcc2" testName="Test_OverloadedTruckHandling" computerName="NDKHUYNH" duration="00:00:00.0001948" startTime="2024-12-06T20:04:21.4203193-05:00" endTime="2024-12-06T20:04:21.4205141-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="514e1f93-8548-4f0b-a3ea-8959c10e8dcc" />
+    <UnitTestResult executionId="2b72660a-f15b-46ea-93fe-71dc2c6b8d68" testId="ab0ff716-c91a-609c-ee93-d0ec31d30acc" testName="Test_FindTruckForShipment" computerName="NDKHUYNH" duration="00:00:00.0001901" startTime="2024-12-06T20:04:21.4143195-05:00" endTime="2024-12-06T20:04:21.4145096-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b72660a-f15b-46ea-93fe-71dc2c6b8d68" />
+    <UnitTestResult executionId="5ffbc2c0-97ca-45c8-9f9e-6a5a97fdb5fd" testId="d6cdf1b3-292f-6df3-7f07-55ea2b93e887" testName="Test_BoundaryConditionShortestPath" computerName="NDKHUYNH" duration="00:00:00.0000164" startTime="2024-12-06T20:04:21.4203193-05:00" endTime="2024-12-06T20:04:21.4203357-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ffbc2c0-97ca-45c8-9f9e-6a5a97fdb5fd" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Test_AddRouteToMap" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="d713a55f-8cc8-84b5-aadd-03df8a402033">
+      <Execution id="b2316eac-eafb-4f24-a9fe-1ab949b87d4f" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_AddRouteToMap" />
+    </UnitTest>
+    <UnitTest name="Test_ShortestPathCalculation" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="64873aea-1eaa-635e-9acf-4117c71416a8">
+      <Execution id="bdaa3462-26d5-4605-aba3-569c4cdb1c3b" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_ShortestPathCalculation" />
+    </UnitTest>
+    <UnitTest name="Test_FindTruckForShipment" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="ab0ff716-c91a-609c-ee93-d0ec31d30acc">
+      <Execution id="2b72660a-f15b-46ea-93fe-71dc2c6b8d68" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_FindTruckForShipment" />
+    </UnitTest>
+    <UnitTest name="Test_CapacityLeftInTruck" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="aa2ecd62-e9b1-309c-2d8e-e62316ef5fe5">
+      <Execution id="732287ba-cae8-4290-a9ea-c52de01680cb" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_CapacityLeftInTruck" />
+    </UnitTest>
+    <UnitTest name="Test_OverloadedTruckHandling" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="9e64fcf4-0e74-9fb3-eedd-43a03478dcc2">
+      <Execution id="514e1f93-8548-4f0b-a3ea-8959c10e8dcc" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_OverloadedTruckHandling" />
+    </UnitTest>
+    <UnitTest name="Test_InvalidPackageData" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="dad26f78-00f8-2d20-7d1d-f9e673eb3d04">
+      <Execution id="a51d3c0b-ac2e-481c-a8eb-e75ab2f07d8b" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_InvalidPackageData" />
+    </UnitTest>
+    <UnitTest name="Test_BoundaryConditionShortestPath" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="d6cdf1b3-292f-6df3-7f07-55ea2b93e887">
+      <Execution id="5ffbc2c0-97ca-45c8-9f9e-6a5a97fdb5fd" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_BoundaryConditionShortestPath" />
+    </UnitTest>
+    <UnitTest name="Test_AddPackageToTruck" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms5\informationtesting1\information\x64\debug\acceptancetestcase.dll" id="f4917fdf-52a8-0754-b3b8-10b794c383e1">
+      <Execution id="147267c8-eafb-4d1c-8c99-ffb3edfbeceb" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS5\InformationTesting1\information\x64\Debug\AcceptanceTestCase.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="AcceptanceTestCase.AcceptanceTestCase" name="AcceptanceTestCase::AcceptanceTestCase::Test_AddPackageToTruck" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="64873aea-1eaa-635e-9acf-4117c71416a8" executionId="bdaa3462-26d5-4605-aba3-569c4cdb1c3b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d713a55f-8cc8-84b5-aadd-03df8a402033" executionId="b2316eac-eafb-4f24-a9fe-1ab949b87d4f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4917fdf-52a8-0754-b3b8-10b794c383e1" executionId="147267c8-eafb-4d1c-8c99-ffb3edfbeceb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aa2ecd62-e9b1-309c-2d8e-e62316ef5fe5" executionId="732287ba-cae8-4290-a9ea-c52de01680cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dad26f78-00f8-2d20-7d1d-f9e673eb3d04" executionId="a51d3c0b-ac2e-481c-a8eb-e75ab2f07d8b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9e64fcf4-0e74-9fb3-eedd-43a03478dcc2" executionId="514e1f93-8548-4f0b-a3ea-8959c10e8dcc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab0ff716-c91a-609c-ee93-d0ec31d30acc" executionId="2b72660a-f15b-46ea-93fe-71dc2c6b8d68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d6cdf1b3-292f-6df3-7f07-55ea2b93e887" executionId="5ffbc2c0-97ca-45c8-9f9e-6a5a97fdb5fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
