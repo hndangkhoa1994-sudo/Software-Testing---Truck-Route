@@ -1,52 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Seneca\\InformationTesting1\\information\\",
+  "WorkspaceRootPath": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF53C080-09C7-4B7A-8346-6229632D351B}|IntegrationTesting\\IntegrationTesting.vcxproj|E:\\Seneca\\InformationTesting1\\information\\IntegrationTesting\\IntegrationTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF53C080-09C7-4B7A-8346-6229632D351B}|IntegrationTesting\\IntegrationTesting.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\IntegrationTesting\\IntegrationTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF53C080-09C7-4B7A-8346-6229632D351B}|IntegrationTesting\\IntegrationTesting.vcxproj|solutionrelative:IntegrationTesting\\IntegrationTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF53C080-09C7-4B7A-8346-6229632D351B}|IntegrationTesting\\IntegrationTesting.vcxproj|E:\\Seneca\\InformationTesting1\\information\\IntegrationTesting\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF53C080-09C7-4B7A-8346-6229632D351B}|IntegrationTesting\\IntegrationTesting.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\IntegrationTesting\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF53C080-09C7-4B7A-8346-6229632D351B}|IntegrationTesting\\IntegrationTesting.vcxproj|solutionrelative:IntegrationTesting\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7360A11B-F3AB-4DDA-80A0-F738548A21ED}|AcceptanceTestCase\\AcceptanceTestCase.vcxproj|E:\\Seneca\\InformationTesting1\\information\\AcceptanceTestCase\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7360A11B-F3AB-4DDA-80A0-F738548A21ED}|AcceptanceTestCase\\AcceptanceTestCase.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\AcceptanceTestCase\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7360A11B-F3AB-4DDA-80A0-F738548A21ED}|AcceptanceTestCase\\AcceptanceTestCase.vcxproj|solutionrelative:AcceptanceTestCase\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7360A11B-F3AB-4DDA-80A0-F738548A21ED}|AcceptanceTestCase\\AcceptanceTestCase.vcxproj|E:\\Seneca\\InformationTesting1\\information\\AcceptanceTestCase\\AcceptanceTestCase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7360A11B-F3AB-4DDA-80A0-F738548A21ED}|AcceptanceTestCase\\AcceptanceTestCase.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\AcceptanceTestCase\\AcceptanceTestCase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7360A11B-F3AB-4DDA-80A0-F738548A21ED}|AcceptanceTestCase\\AcceptanceTestCase.vcxproj|solutionrelative:AcceptanceTestCase\\AcceptanceTestCase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|solutionrelative:UnitTestCPPFrameWork\\WhiteBoxTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|solutionrelative:UnitTestCPPFrameWork\\information_r.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS4\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|E:\\Seneca\\InformationTesting1\\information\\information\\truck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\truck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|solutionrelative:information\\truck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|E:\\Seneca\\InformationTesting1\\information\\information\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|solutionrelative:information\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|solutionrelative:UnitTestCPPFrameWork\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EDC2FE4-668A-4ED7-AF91-BCD8372ED946}|UnitTestCPPFrameWork\\UnitTestCPPFrameWork.vcxproj|solutionrelative:UnitTestCPPFrameWork\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|E:\\Seneca\\InformationTesting1\\information\\information\\truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C823A805-C3A7-409B-A000-95D5280130F9}|information\\information.vcxproj|solutionrelative:information\\truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -65,7 +65,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 231,
+          "DockedHeight": 218,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -76,24 +76,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "information_r.h",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\IntegrationTesting\\information_r.h",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\IntegrationTesting\\information_r.h",
               "RelativeDocumentMoniker": "IntegrationTesting\\information_r.h",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\IntegrationTesting\\information_r.h",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\IntegrationTesting\\information_r.h",
               "RelativeToolTip": "IntegrationTesting\\information_r.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-06T21:29:37.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T21:29:37.178Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IntegrationTesting.cpp",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\IntegrationTesting\\IntegrationTesting.cpp",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\IntegrationTesting\\IntegrationTesting.cpp",
               "RelativeDocumentMoniker": "IntegrationTesting\\IntegrationTesting.cpp",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\IntegrationTesting\\IntegrationTesting.cpp",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\IntegrationTesting\\IntegrationTesting.cpp",
               "RelativeToolTip": "IntegrationTesting\\IntegrationTesting.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCEAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T21:26:23.782Z",
               "EditorCaption": ""
@@ -102,36 +101,34 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "information_r.h",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\AcceptanceTestCase\\information_r.h",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\AcceptanceTestCase\\information_r.h",
               "RelativeDocumentMoniker": "AcceptanceTestCase\\information_r.h",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\AcceptanceTestCase\\information_r.h",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\AcceptanceTestCase\\information_r.h",
               "RelativeToolTip": "AcceptanceTestCase\\information_r.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-06T04:28:08.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:28:08.108Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AcceptanceTestCase.cpp",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\AcceptanceTestCase\\AcceptanceTestCase.cpp",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\AcceptanceTestCase\\AcceptanceTestCase.cpp",
               "RelativeDocumentMoniker": "AcceptanceTestCase\\AcceptanceTestCase.cpp",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\AcceptanceTestCase\\AcceptanceTestCase.cpp",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\AcceptanceTestCase\\AcceptanceTestCase.cpp",
               "RelativeToolTip": "AcceptanceTestCase\\AcceptanceTestCase.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T04:23:39.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:23:39.974Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "WhiteBoxTesting.cpp",
               "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS4\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
-              "RelativeDocumentMoniker": "..\\..\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS4\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\MS4\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
               "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS4\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
-              "RelativeToolTip": "..\\..\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS4\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
+              "RelativeToolTip": "..\\..\\..\\MS4\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
               "ViewState": "AgIAANYAAAAAAAAAAAAowAEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T03:13:56.661Z"
@@ -140,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "truck.c",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\information\\truck.c",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\truck.c",
               "RelativeDocumentMoniker": "information\\truck.c",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\information\\truck.c",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\truck.c",
               "RelativeToolTip": "information\\truck.c",
               "ViewState": "AgIAAFQAAAAAAAAAAAAYwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -152,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "pch.cpp",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.cpp",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.cpp",
               "RelativeDocumentMoniker": "UnitTestCPPFrameWork\\pch.cpp",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.cpp",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.cpp",
               "RelativeToolTip": "UnitTestCPPFrameWork\\pch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -164,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "pch.h",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.h",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.h",
               "RelativeDocumentMoniker": "UnitTestCPPFrameWork\\pch.h",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.h",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\pch.h",
               "RelativeToolTip": "UnitTestCPPFrameWork\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -176,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "truck.h",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\information\\truck.h",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\truck.h",
               "RelativeDocumentMoniker": "information\\truck.h",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\information\\truck.h",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\truck.h",
               "RelativeToolTip": "information\\truck.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -198,9 +195,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "information_r.h",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\information_r.h",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\information_r.h",
               "RelativeDocumentMoniker": "UnitTestCPPFrameWork\\information_r.h",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\information_r.h",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\information_r.h",
               "RelativeToolTip": "UnitTestCPPFrameWork\\information_r.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -210,14 +207,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "WhiteBoxTesting.cpp",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
               "RelativeDocumentMoniker": "UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
               "RelativeToolTip": "UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
               "ViewState": "AgIAAFcBAAAAAAAAAAAQwHQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-29T02:51:01.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T02:51:01.105Z"
             },
             {
               "$type": "Document",
@@ -243,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "main.c",
-              "DocumentMoniker": "E:\\Seneca\\InformationTesting1\\information\\information\\main.c",
+              "DocumentMoniker": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\main.c",
               "RelativeDocumentMoniker": "information\\main.c",
-              "ToolTip": "E:\\Seneca\\InformationTesting1\\information\\information\\main.c",
+              "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\information\\main.c",
               "RelativeToolTip": "information\\main.c",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -254,7 +250,7 @@
           ]
         },
         {
-          "DockedHeight": 207,
+          "DockedHeight": 220,
           "SelectedChildIndex": -1,
           "Children": [
             {

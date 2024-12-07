@@ -65,7 +65,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 231,
+          "DockedHeight": 218,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "IntegrationTesting\\IntegrationTesting.cpp",
               "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS5\\InformationTesting1\\information\\IntegrationTesting\\IntegrationTesting.cpp",
               "RelativeToolTip": "IntegrationTesting\\IntegrationTesting.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCEAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T21:26:23.782Z",
               "EditorCaption": ""
@@ -250,7 +250,7 @@
           ]
         },
         {
-          "DockedHeight": 207,
+          "DockedHeight": 220,
           "SelectedChildIndex": -1,
           "Children": [
             {
