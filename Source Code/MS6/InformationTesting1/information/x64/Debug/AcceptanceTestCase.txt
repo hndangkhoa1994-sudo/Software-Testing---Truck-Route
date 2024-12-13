@@ -1,0 +1,29 @@
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Cannot add package: Exceeds capacity.
+Cannot add package: Exceeds capacity.
+Cannot add package: Exceeds capacity.
+Cannot add package: Exceeds capacity.
+Cannot add package: Exceeds capacity.
+Invalid package: Cannot add package with negative weight or volume.
+  Passed Test_FindTruckForShipment [< 1 ms]
+  Passed Test_AddPackageToTruck [< 1 ms]
+  Passed Test_ShortestPathCalculation [< 1 ms]
+  Passed Test_CapacityLeftInTruck [< 1 ms]
+  Passed Test_AddRouteToMap [< 1 ms]
+  Passed Test_BoundaryConditionShortestPath [< 1 ms]
+  Passed Test_OverloadedTruckHandling [< 1 ms]
+  Passed Test_InvalidPackageData [< 1 ms]
+  Passed test_truckRouteAssignment [< 1 ms]
+  Passed TestTruckOperationsAndPathCalculation [< 1 ms]
+  Passed TestMultiplePackages [< 1 ms]
+  Passed TestEdgeCaseVolume [< 1 ms]
+  Passed TestExactFit [< 1 ms]
+  Passed TestInvalidPackage [< 1 ms]
+
+Test Run Successful.
+Total tests: 14
+     Passed: 14
+ Total time: 0.2399 Seconds
