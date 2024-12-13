@@ -11,10 +11,10 @@ using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
 namespace AcceptanceTestCase
 {
-	TEST_CLASS(AcceptanceTestCase)
-	{
-	public:
-		
+    TEST_CLASS(AcceptanceTestCase)
+    {
+    public:
+
         //Test Case 1: Find Truck for a Shipment
         TEST_METHOD(Test_FindTruckForShipment) {
             // Test Case 1: Find Truck for a Shipment
@@ -113,5 +113,8 @@ namespace AcceptanceTestCase
 
             Assert::AreEqual(0, canAdd); // Invalid package should not be allowed
         }
+
+
+
     };
 }
