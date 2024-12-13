@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="226059fc-8b49-48c4-8a3d-de4603ed6eef" name="ndkhuynh@NDKHUYNH 2024-12-12 22:54:14" runUser="NDKHUYNH\ndkhuynh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-12-12T22:54:14.3933178-05:00" queuing="2024-12-12T22:54:14.3933178-05:00" start="2024-12-12T22:54:14.1572860-05:00" finish="2024-12-12T22:54:14.4133275-05:00" />
+  <TestSettings name="default" id="3faa30ce-09e5-4dc5-b983-23ef0ab0aefb">
+    <Deployment runDeploymentRoot="ndkhuynh_NDKHUYNH_2024-12-12_22_54_14" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="7287158a-8f27-4070-9454-961cfb84480b" testId="34907d99-67b6-8692-5a65-63da8e94c6c4" testName="TestFindTruckForShipment_NoFit" computerName="NDKHUYNH" duration="00:00:00.0000153" startTime="2024-12-12T22:54:14.3813178-05:00" endTime="2024-12-12T22:54:14.3813331-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7287158a-8f27-4070-9454-961cfb84480b" />
+    <UnitTestResult executionId="ced87825-0fde-49dd-a505-4ec748550397" testId="63b8d880-1563-9871-4567-1892afacaef2" testName="TestCountPackages" computerName="NDKHUYNH" duration="00:00:00.0000461" startTime="2024-12-12T22:54:14.3803177-05:00" endTime="2024-12-12T22:54:14.3803638-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ced87825-0fde-49dd-a505-4ec748550397" />
+    <UnitTestResult executionId="33d0914e-3814-4141-b705-394fa45fefa8" testId="fda82917-533b-7412-596d-24b60d438f01" testName="TestFindTruckForShipment_ExactFit" computerName="NDKHUYNH" duration="00:00:00.0000173" startTime="2024-12-12T22:54:14.3813178-05:00" endTime="2024-12-12T22:54:14.3813351-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33d0914e-3814-4141-b705-394fa45fefa8" />
+    <UnitTestResult executionId="20bc339e-b27a-49b1-a443-0724f6e294bd" testId="ed03db56-7301-2687-5da5-938226eecfef" testName="TestFindTruckForShipment_ValidCase" computerName="NDKHUYNH" duration="00:00:00.0000239" startTime="2024-12-12T22:54:14.3813178-05:00" endTime="2024-12-12T22:54:14.3813417-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20bc339e-b27a-49b1-a443-0724f6e294bd" />
+    <UnitTestResult executionId="5beac8aa-eabf-4b3b-bdc1-386802b00f8d" testId="b77f8553-db44-a487-3ccb-5c1ba6a69a7b" testName="TestCapacityLeft" computerName="NDKHUYNH" duration="00:00:00.0001174" startTime="2024-12-12T22:54:14.3813178-05:00" endTime="2024-12-12T22:54:14.3814352-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5beac8aa-eabf-4b3b-bdc1-386802b00f8d" />
+    <UnitTestResult executionId="0f091427-039d-4c74-a009-c926e7e2818a" testId="eed2e5ac-fe7c-38f6-051c-d379d47c9296" testName="TestAddRoute_ValidRoute" computerName="NDKHUYNH" duration="00:00:00.0004864" startTime="2024-12-12T22:54:14.3743213-05:00" endTime="2024-12-12T22:54:14.3748077-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f091427-039d-4c74-a009-c926e7e2818a" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestFindTruckForShipment_ValidCase" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms6\blackbox testing\informationtesting1\information\x64\debug\blackboxtesting.dll" id="ed03db56-7301-2687-5da5-938226eecfef">
+      <Execution id="20bc339e-b27a-49b1-a443-0724f6e294bd" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS6\BlackBox Testing\InformationTesting1\information\x64\Debug\BlackBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="BlackBoxTesting.BlackBoxTesting" name="BlackBoxTesting::BlackBoxTesting::TestFindTruckForShipment_ValidCase" />
+    </UnitTest>
+    <UnitTest name="TestAddRoute_ValidRoute" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms6\blackbox testing\informationtesting1\information\x64\debug\blackboxtesting.dll" id="eed2e5ac-fe7c-38f6-051c-d379d47c9296">
+      <Execution id="0f091427-039d-4c74-a009-c926e7e2818a" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS6\BlackBox Testing\InformationTesting1\information\x64\Debug\BlackBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="BlackBoxTesting.BlackBoxTesting" name="BlackBoxTesting::BlackBoxTesting::TestAddRoute_ValidRoute" />
+    </UnitTest>
+    <UnitTest name="TestCountPackages" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms6\blackbox testing\informationtesting1\information\x64\debug\blackboxtesting.dll" id="63b8d880-1563-9871-4567-1892afacaef2">
+      <Execution id="ced87825-0fde-49dd-a505-4ec748550397" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS6\BlackBox Testing\InformationTesting1\information\x64\Debug\BlackBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="BlackBoxTesting.BlackBoxTesting" name="BlackBoxTesting::BlackBoxTesting::TestCountPackages" />
+    </UnitTest>
+    <UnitTest name="TestFindTruckForShipment_NoFit" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms6\blackbox testing\informationtesting1\information\x64\debug\blackboxtesting.dll" id="34907d99-67b6-8692-5a65-63da8e94c6c4">
+      <Execution id="7287158a-8f27-4070-9454-961cfb84480b" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS6\BlackBox Testing\InformationTesting1\information\x64\Debug\BlackBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="BlackBoxTesting.BlackBoxTesting" name="BlackBoxTesting::BlackBoxTesting::TestFindTruckForShipment_NoFit" />
+    </UnitTest>
+    <UnitTest name="TestCapacityLeft" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms6\blackbox testing\informationtesting1\information\x64\debug\blackboxtesting.dll" id="b77f8553-db44-a487-3ccb-5c1ba6a69a7b">
+      <Execution id="5beac8aa-eabf-4b3b-bdc1-386802b00f8d" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS6\BlackBox Testing\InformationTesting1\information\x64\Debug\BlackBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="BlackBoxTesting.BlackBoxTesting" name="BlackBoxTesting::BlackBoxTesting::TestCapacityLeft" />
+    </UnitTest>
+    <UnitTest name="TestFindTruckForShipment_ExactFit" storage="e:\seneca\sft221\root\fall2024---sft---nhh---1\source code\ms6\blackbox testing\informationtesting1\information\x64\debug\blackboxtesting.dll" id="fda82917-533b-7412-596d-24b60d438f01">
+      <Execution id="33d0914e-3814-4141-b705-394fa45fefa8" />
+      <TestMethod codeBase="E:\Seneca\SFT221\Root\Fall2024---SFT---NHH---1\Source Code\MS6\BlackBox Testing\InformationTesting1\information\x64\Debug\BlackBoxTesting.dll" adapterTypeName="executor://cppunittestexecutor/v1" className="BlackBoxTesting.BlackBoxTesting" name="BlackBoxTesting::BlackBoxTesting::TestFindTruckForShipment_ExactFit" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="34907d99-67b6-8692-5a65-63da8e94c6c4" executionId="7287158a-8f27-4070-9454-961cfb84480b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63b8d880-1563-9871-4567-1892afacaef2" executionId="ced87825-0fde-49dd-a505-4ec748550397" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fda82917-533b-7412-596d-24b60d438f01" executionId="33d0914e-3814-4141-b705-394fa45fefa8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ed03db56-7301-2687-5da5-938226eecfef" executionId="20bc339e-b27a-49b1-a443-0724f6e294bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b77f8553-db44-a487-3ccb-5c1ba6a69a7b" executionId="5beac8aa-eabf-4b3b-bdc1-386802b00f8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eed2e5ac-fe7c-38f6-051c-d379d47c9296" executionId="0f091427-039d-4c74-a009-c926e7e2818a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

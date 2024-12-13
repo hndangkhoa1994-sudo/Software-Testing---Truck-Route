@@ -1,0 +1,16 @@
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+The volume is exceed
+  Passed TestAddRoute_ValidRoute [< 1 ms]
+  Passed TestCountPackages [< 1 ms]
+  Passed TestCapacityLeft [< 1 ms]
+  Passed TestFindTruckForShipment_ValidCase [< 1 ms]
+  Passed TestFindTruckForShipment_ExactFit [< 1 ms]
+  Passed TestFindTruckForShipment_NoFit [< 1 ms]
+
+Test Run Successful.
+Total tests: 6
+     Passed: 6
+ Total time: 0.2149 Seconds
