@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "AcceptanceTestCase\\AcceptanceTestCase.cpp",
               "ToolTip": "E:\\Seneca\\SFT221\\Root\\Fall2024---SFT---NHH---1\\Source Code\\MS6\\InformationTesting1\\information\\AcceptanceTestCase\\AcceptanceTestCase.cpp",
               "RelativeToolTip": "AcceptanceTestCase\\AcceptanceTestCase.cpp",
-              "ViewState": "AgIAABMBAAAAAAAAAAAswDEBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABABAAAAAAAAAAAswDEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T04:23:39.974Z",
               "EditorCaption": ""
@@ -177,8 +177,7 @@
               "RelativeToolTip": "UnitTestCPPFrameWork\\WhiteBoxTesting.cpp",
               "ViewState": "AgIAAF8BAAAAAAAAAAAAAGABAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-29T02:51:01.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T02:51:01.105Z"
             },
             {
               "$type": "Document",
