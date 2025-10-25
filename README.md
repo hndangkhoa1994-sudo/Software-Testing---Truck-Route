@@ -53,7 +53,7 @@ Acceptance tests (Alpha & Beta phases)
 Automated pre-push test validation
 
 🧪 Milestones Summary
-🥇 Milestone 1 – Setup & Planning
+🧩 Milestone 1 – Setup & Planning
 
 Group1-ms1-scrum-report
 
@@ -65,7 +65,7 @@ Established WhatsApp communication channel
 
 Learned version control and Kanban workflow
 
-🥈 Milestone 2 – Problem Analysis & Data Structures
+🧩 Milestone 2 – Problem Analysis & Data Structures
 
 Group1-ms2-scrum-report
 
@@ -101,7 +101,7 @@ Added Git pre-push hook for automated testing
 
 Integrated test results in Jira and test documents
 
-🔗 Milestone 5 – Integration & Acceptance Testing
+🧩 Milestone 5 – Integration & Acceptance Testing
 
 Group 1-ms5-scrum-report
 
@@ -113,7 +113,7 @@ Performed Alpha acceptance tests and debugged issues
 
 Verified full system integration in Git and Jira
 
-🏁 Milestone 6 – Final Testing & Project Closure
+🧩 Milestone 6 – Final Testing & Project Closure
 
 Group 1-ms6-scrum-report
 
